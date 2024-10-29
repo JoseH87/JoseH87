@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I’m currently learning AWS, Linux and Java 👋
 
 <!--
 **JoseH87/JoseH87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
