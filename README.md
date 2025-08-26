@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 Conecta conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin/josé-hernández-garcía)  
-[![Portafolio](https://img.shields.io/badge/🌍-Portafolio-green?style=for-the-badge)](https://JoseH87.github.io/)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jos%C3%A9-hern%C3%A1ndez-garc%C3%ADa)  
+[![Portafolio](https://img.shields.io/badge/🌍-Portafolio-green?style=for-the-badge)](https://github.com/JoseH87?tab=repositories)   
 
 
