@@ -31,19 +31,21 @@
 
 ## 🌍 Idiomas que hablo  
 
-🇪🇸 Español — Nativo  
+🇪🇸 Español — Nativo
 
-🇬🇧 Inglés — Avanzado (C1)  
+🇫🇷 Francés — Avanzado
 
-🇫🇷 Francés — Intermedio (B1)  
+🇬🇧 Inglés — Intermedio (B1)   
 
-🇮🇹 Italiano — Básico (A2)  
+🇮🇹 Italiano — Básico  
 
 ---
 
 ## 📂 Proyectos Destacados  
 🔹 [**To-Do List**](https://github.com/JoseH87/API_ToDo_Java) – *API de Tareas (To-Do List)* 
+
 🔹 [**Personal site**](https://github.com/JoseH87/JoseH87) – *Página de presentación* 
+
 ---
 
 ## 📊 Mis estadísticas en GitHub  
