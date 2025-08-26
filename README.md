@@ -27,13 +27,19 @@
 ### Herramientas  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 🌍 Idiomas que hablo  
+🇪🇸 Español — Nativo
+🇫🇷 Francés — Avanzado
+🇬🇧 Inglés — Intermedio (B1)
+🇮🇹 Italiano — Básico
 
 ---
 
 ## 📂 Proyectos Destacados  
 🔹 [**To-Do List**](https://github.com/JoseH87/API_ToDo_Java) – *API de Tareas (To-Do List)* 
-🔹 [**Personal site**](https://github.com/JoseH87/JoseH87) – *Página de presentacion* 
+🔹 [**Personal site**](https://github.com/JoseH87/JoseH87) – *Página de presentación* 
 ---
 
 ## 📊 Mis estadísticas en GitHub  
