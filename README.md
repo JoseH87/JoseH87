@@ -32,7 +32,7 @@
 ---
 
 ## 📂 Proyectos Destacados  
-🔹 [**Proyecto 1**](https://github.com/JoseH87/API_ToDo_Java) – *API de Tareas (To-Do List)* 
+🔹 [**To-Do List**](https://github.com/JoseH87/API_ToDo_Java) – *API de Tareas (To-Do List)* 
 
 ---
 
