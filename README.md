@@ -30,10 +30,14 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🌍 Idiomas que hablo  
-🇪🇸 Español — Nativo
-🇫🇷 Francés — Avanzado
-🇬🇧 Inglés — Intermedio (B1)
-🇮🇹 Italiano — Básico
+
+🇪🇸 Español — Nativo  
+
+🇬🇧 Inglés — Avanzado (C1)  
+
+🇫🇷 Francés — Intermedio (B1)  
+
+🇮🇹 Italiano — Básico (A2)  
 
 ---
 
