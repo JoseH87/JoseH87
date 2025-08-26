@@ -29,13 +29,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<div style="background-color:#1e1e1e; color:white; padding:15px; border-radius:10px;">
-  <h3>🌍 Idiomas que hablo</h3>
-  <p>🇪🇸 Español — Nativo</p>
-  <p>🇬🇧 Inglés — Avanzado (C1)</p>
-  <p>🇫🇷 Francés — Intermedio (B1)</p>
-  <p>🇮🇹 Italiano — Básico (A2)</p>
-</div>
+## 🌍 Idiomas que hablo  
+
+🇪🇸 Español — Nativo  
+
+🇫🇷 Francés — Avanzado
+
+🇬🇧 Inglés — Intermedio (B1)  
+
+🇮🇹 Italiano — Básico 
 
 ---
 
